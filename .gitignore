@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Data/cache
+data/
+cache/
+*.csv
+*.parquet
+*.feather
+
+# OS
+.DS_Store
+
+# Tools
+.vscode/
+.idea/
+
+
