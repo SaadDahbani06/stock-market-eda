@@ -1,4 +1,4 @@
-## Stock Market EDA (Beginner)
+## Stock Market EDA 
 
 An exploratory data analysis (EDA) of selected US stocks using Yahoo Finance data via `yfinance`. The notebook walks through data collection, cleaning, feature engineering (returns, volatility, moving averages), and a variety of visual analyses, including correlations, risk/return, and a simple equal-weight portfolio vs. SPY.
 
